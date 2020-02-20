@@ -1,10 +1,3 @@
-########################################################
- ###               BANK SYSTEM                      ###
-  ###       @author: Kangah Blaise Angoua          ###
-   ###        Student ID: 18119415                ###
-    ################################################
-
-
 from customer_account import CustomerAccount
 from admin import Admin
 import json
