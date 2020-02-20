@@ -1,9 +1,3 @@
-########################################################
- ###               BANK SYSTEM                      ###
-  ###       @author: Kangah Blaise Angoua          ###
-   ###        Student ID: 18119415                ###
-    ################################################
-
 #import libraries
 import tkinter as Tk
 from bank_system import *
