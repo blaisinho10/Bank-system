@@ -1,9 +1,3 @@
-########################################################
- ###               BANK SYSTEM                      ###
-  ###       @author: Kangah Blaise Angoua          ###
-   ###        Student ID: 18119415                ###
-    ################################################
-
 class person(object):
     def __init__(self, fname, lname, address,):
         self.fname = fname
