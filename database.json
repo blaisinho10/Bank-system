@@ -1,0 +1,56 @@
+{
+	"customer": [
+               {
+            		"fname": "Adam",
+            		"lname": "Smith",
+		            "address": {"n": 14,"street": "Wilcot Street","town": "Bath","post_code":"B5 5RT"},
+		            "account_no":1234,
+		            "current_balance":5000.00,
+		            "saving_balance":200.00
+	              }, 
+              {
+            		"fname": "David",
+            		"lname": "White",
+		            "address": {"n": 60,"street": "Holborn Viaduct","town": "London","post_code":"EC1A 2FD"},
+		            "account_no":1235,
+		            "current_balance":3200.00,
+		            "saving_balance":0.00
+	              },
+	             {
+            		"fname": "Alice",
+            		"lname": "Churchil",
+		            "address": {"n": 5,"street": "Cardigan Street","town": "Birmingham","post_code":"B4 7BD"},
+		            "account_no":1236,
+		            "current_balance":18000.00,
+		            "saving_balance":200000.00
+	              }, 
+	              {
+            		"fname": "Ali",
+            		"lname": "Abdallah",
+		            "address": {"n": 44,"street": "Churchill Way West","town": "Basingstoke","post_code":"RG21 6YR"},
+		            "account_no":1237,
+		            "current_balance":40.00,
+		            "saving_balance":0.00
+	              } 
+            ],
+            
+	"admin": [
+	            {
+            		"fname": "Julian",
+            		"lname": "Padget",
+		            "address": {"n": 12,"street": "London Road","town": "Birmingham","post_code":"B95 7TT"},
+		            "user_name":"id1188",
+		            "password":"1441",
+		            "full_admin_rights": "True"
+	              }, 
+	              {
+            		"fname": "Cathy",
+            		"lname": "Newman",
+		            "address": {"n": 47,"street": "Mars Street","town": "Newcastle","post_code":"NE12 6TZ"},
+		            "user_name":"id3313",
+		            "password":"2442",
+		            "full_admin_rights": "False"
+	              } 
+
+	]
+}
